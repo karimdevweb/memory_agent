@@ -1,0 +1,15 @@
+{
+    "conversation_memory": [
+        "AI: Je suis ravi de vous revoir! J'ai bien. Et toi comment \u00e7a va ? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?",
+        "User: Comment s'appelle mon ami ?",
+        "AI: Mon ami s'appelle Bob, heureux de vous rencontrer! Comment \u00e7a va pour toi? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?",
+        "User: En fait, il s'appelle Marc",
+        "AI: Oh merci pour la clarification! Je suis heureux de vous rencontrer, mon ami s'appelle maintenant Marc. Comment \u00e7a va pour toi aujourd'hui? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?",
+        "User: Comment s'appelle mon ami ?",
+        "AI: Mon ami s'appelait initialement Bob, mais maintenant il s'appelle Marc, heureux de vous rencontrer! Comment \u00e7a va pour toi aujourd'hui? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?",
+        "User: Oublie le nom de mon ami",
+        "AI: Mon ami s'appelait initialement Bob, mais je n'ai plus la m\u00e9moire de son nom actuel. Je suis heureux de vous rencontrer! Comment \u00e7a va pour toi aujourd'hui? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?",
+        "User: Comment s'appelle mon ami ?",
+        "AI: Mon ami se nomme Bob, mais je n'ai plus la m\u00e9moire de son nom actuel. Je suis heureux de vous rencontrer! Comment \u00e7a va pour toi aujourd'hui? Est-ce que tu as une question ou besoin d'aide \u00e0 propos de quelque chose en particulier aujourd'hui?"
+    ]
+}
